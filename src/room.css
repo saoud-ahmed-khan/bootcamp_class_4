@@ -1,0 +1,22 @@
+div
+{
+    
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    margin: auto;
+}
+.dark{
+     background-color: black;
+     color:white
+}
+.bright
+{
+    background-color: yellow;
+    color: blue;
+}
+button{
+    font-size: 30px;
+}
